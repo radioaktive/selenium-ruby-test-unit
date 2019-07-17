@@ -2,7 +2,7 @@
 
 how to
 
-run selenium with Test::Unit tests
+run selenium with ruby and Test::Unit tests
 
 prerequirements: ruby installed
 
