@@ -23,6 +23,9 @@ https://github.com/mozilla/geckodriver/releases
 install geckodriver and set path
 https://firefox-source-docs.mozilla.org/testing/geckodriver/Usage.html
 
+(if you use ubuntu linux this link will be helpful:
+http://ubuntu.fliplinux.com/geckodriver-ubuntu.html
+)
 
 open terminal and install ruby gem selenium-webdriver
 ```bash
