@@ -23,8 +23,12 @@ https://github.com/mozilla/geckodriver/releases
 install geckodriver and set path
 https://firefox-source-docs.mozilla.org/testing/geckodriver/Usage.html
 
-(if you use ubuntu linux this link will be helpful:
+(if you use ubuntu linux this links will be helpful:
+
 http://ubuntu.fliplinux.com/geckodriver-ubuntu.html
+
+https://stackoverflow.com/questions/56566599/unable-to-install-ruby-gem-selenium-webdriver-on-ubuntu-19-04
+
 )
 
 open terminal and install ruby gem selenium-webdriver
